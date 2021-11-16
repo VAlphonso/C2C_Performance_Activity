@@ -12,13 +12,19 @@ The table below shows a disconnect between 73% of students that would still atte
 
 ![College.png](Resources/College.png)
 
-Looking at the two charts below, 18% of students had participated in C2C in person. Of that 18%, only 14% of students agreed or strongly agreed that they feel a strong connection to staff, volunteers, and other students. However, 53% of students that had not participated in C2C in person
+Looking at the two charts below, 18% of students had participated in C2C in person. Of that 18%, only 14% of students agreed or strongly agreed that they feel a strong connection to staff, volunteers, and other students. However, 53% of students that had not participated in C2C in person indicated that they either agreed or strongly agred that thay feel a sstrong connection to staff, colunteers, and other students. 
+
+Depending on C2C's goal and ridger of their matrices, I would say that C2C does well with making and keeping connections either virtually or in-person. However, this is a slim margin. 
 
 ![Connection.png](Resources/Connection.png)
 ![Mconnections.png](Resources/Mconnections.png)
 
+To address the treats that C2C needs to be mindful, I created the following charts:
+
 ![Challenges.png](Resources/Challenges.png)
 ![CChart.png](Resources/CChart.png)
+
+As you can see, technical issues is more than 60% of the challenges faced by students. Additionally, 23% of students indicated that limited interactions with teachers was a challenge. 
 
 ## Achievement Data Analysis and Interpretation
 
